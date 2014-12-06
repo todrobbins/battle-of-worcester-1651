@@ -2,6 +2,10 @@
 
 A repository of notes and structured data for the history the Battle of Worcester, 1651.
 
+##Prisoners
+
+* [Daniel Robinson](people/daniel-robinson.md)
+
 ##Resources
 
 * [Scottish Prisoners of War](http://scottishprisonersofwar.com/)
