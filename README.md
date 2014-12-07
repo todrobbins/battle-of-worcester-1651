@@ -7,9 +7,11 @@ A repository of notes and structured data for the history the Battle of Worceste
 * [Alexander Gordon](people/alexander-gordon.md)
 * [Daniel Robinson](people/daniel-robinson.md)
 
+##Royalists
+
 ##Scots
 
-* [Daniel Robinson](people/daniel-robinson.md)
+* [Daniel Robinson](people/daniel-robinson.md) [_(json-ld)_](people/daniel-robinson.jsonld)
 
 ##Resources
 

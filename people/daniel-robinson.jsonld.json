@@ -1,6 +1,6 @@
 {
   "@context": "http://json-ld.org/contexts/person.jsonld",
-  "@id": "http://todrobbins.com/swp/data/people/daniel-robinson.jsonld",
+  "@id": "http://todrobbins.com/swp/people/daniel-robinson.jsonld",
   "name": "Daniel Robinson",
   "born": "1627"
 }
